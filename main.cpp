@@ -24,6 +24,9 @@ int main()
 
     결괴 : 파일 생성이 안도ㅣ네ㅋㅋㅋ 그냥 문자열을 어디 입력 할 땐 char[] 형태로 하는게 좋을려나.
     아니면 복호화 가능한 해쉬로 바꿔서 넣는건 불안정해.. 음
+    
+    
+    -- 보니까 함수에 반환은 배열로 할 수 업네 char* 가 되어야 한다.
     */
     testxxx::exToolClass toolInstance = testxxx::exToolClass();
     std::string dummyText = "edit code on \"visual studio code\" of the best experience.";
