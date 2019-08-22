@@ -14,6 +14,7 @@ int main(void)
     double num2 = 4;
     double result = 0;
     char oper = '*';
+    
     switch (oper)
     {
     case '+':

@@ -5,6 +5,7 @@
 //php에선 개똥같은 부분이지
 class scv
 {
+    
     public:
     void say(char s)
     {
